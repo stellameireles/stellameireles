@@ -29,3 +29,4 @@ Skills - Learning and improving 👩‍💻
     📑 SQL
     💻 Machine Learning
     📊 Data Visualization
+    🌵 Git 
