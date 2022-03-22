@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Stella Cartoon](https://user-images.githubusercontent.com/30197115/120997576-b48da600-c75d-11eb-9401-f769b775f43f.PNG)
 
 
 <!--
