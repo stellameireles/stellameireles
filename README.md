@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started: -->
 
- 🔭 I’m currently working as an IT analyst at Banco do Brasil since 2014\
+ 🔭 I’m currently working as an IT analyst at Banco do Brasil\
  👪 Worked as a developer in several agile teams using the SCRUM framework \
  👩‍🎓 Bachelor of Computing\
  👩‍🏫 Worked as an English teacher\
